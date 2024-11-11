@@ -1,1 +1,2 @@
-hello some text has been added in a1.txt appended front text
+hello some text has been added in a1.txt
+added below text
