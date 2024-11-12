@@ -1,0 +1,1 @@
+some text has been added in a2.txt with feature2
