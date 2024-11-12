@@ -1,2 +1,6 @@
 hello some text has been added in a1.txt
+<<<<<<< HEAD
 added below text
+=======
+some more changes added to feature1
+>>>>>>> feature1
